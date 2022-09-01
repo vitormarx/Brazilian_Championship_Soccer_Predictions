@@ -6,10 +6,9 @@ Using machine learning to predict the outcome of Brzilian Championship Soccer ma
 * Google Colaboratory
 * Scikit-Learn
 
-### Results
+# Results
 * **Accuracy:** 0.704 
 
-# Results
 ### Confusion Matrix
 <img src='/images/cm.png'></img>
 
